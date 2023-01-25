@@ -1,2 +1,1 @@
-# RodriguezMier23
-Multi-condition / multi-timepoint experiments with CORNETO
+# Multi-condition / multi-timepoint experiments
