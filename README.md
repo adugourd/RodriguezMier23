@@ -20,11 +20,26 @@ Code and data are available in the [panacea](https://github.com/saezlab/Rodrigue
 
 
 
+## A375 BRAF V600E longitudinal RNA-seq data
+
+We used data from Gerosa et al. [4] to illustrate how CORNETO can be used in a different complete setting, without changing the underlying method. In this dataset, A375 Braf V600E mutant cells were treated with a BRAF inhibitor for 24h, and then stimulated with EGF. Transcriptomics data was obtained after EGF stimulation at different timepoints (0h, 0.5h, 1h, 2h, 3h, 4h, 8h). 
+
+We estimated TF activities from changes in gene expression between consecutive time points (0.5h vs 0h, 1h vs 0.5h, ...), and then we use CORNETO to sequentially infer signaling networks that explain the TF activities from EGFR.
+
+The following scripts are available in the [A375-BRAFi](https://github.com/saezlab/RodriguezMier23/tree/main/A375-BRAFi) folder:
+
+- [`preprocess.R`](https://github.com/saezlab/RodriguezMier23/blob/main/A375-BRAFi/preprocess.R): R script that processes the transcriptomics data, estimates differential expression between timepoints and then TF activities.
+- [`a375-longitudinal.ipynb`](https://github.com/saezlab/RodriguezMier23/blob/main/A375-BRAFi/a375-longitudinal.ipynb): Implements the sequential loop with CORNETO to infer signaling networks that explains the observed changes in TFs. Network for the diff. time point _t+1_ is fitted to the data minimizing the structural distance of the network with respect the network for _t_.
+- [`process_results.ipynb`](https://github.com/saezlab/RodriguezMier23/blob/main/A375-BRAFi/process_results.ipynb): Process and analyzes the results and generates the plots.
+
+
+
 ## References
 
 1. Douglass Jr, Eugene F., et al. "A community challenge for a pancancer drug mechanism of action inference from perturbational profile data." *Cell Reports Medicine* 3.1 (2022): 100492.
 2. Badia-i-Mompel, Pau, et al. "decoupleR: ensemble of computational methods to infer biological activities from omics data." *Bioinformatics Advances* 2.1 (2022): vbac016.
 3. Türei, Dénes, Tamás Korcsmáros, and Julio Saez-Rodriguez. "OmniPath: guidelines and gateway for literature-curated signaling pathway resources." *Nature methods* 13.12 (2016): 966-967.
+4. Gerosa, Luca, et al. "Receptor-driven ERK pulses reconfigure MAPK signaling and enable persistence of drug-adapted BRAF-mutant melanoma cells." Cell systems 11.5 (2020): 478-494.
 
 
 
