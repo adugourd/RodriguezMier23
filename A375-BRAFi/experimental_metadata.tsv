@@ -1,0 +1,141 @@
+Vemurafenib.24h..uM.	Cobimetinib.24h..uM.	EGF.100ng.mL..h.	Type	Sample.ID.s.	col_id
+0	0	0	Mean	15  16  31  32	C1
+0.001	0	0	Mean	13  14  29  30	C2
+0.01	0	0	Mean	11  12  27  28	C3
+0.0316	0	0	Mean	9  10  25  26	C4
+0.1	0	0	Mean	7   8  23  24	C5
+0.316	0	0	Mean	5   6  21  22	C6
+1	0	0	Mean	3   4  19  20	C7
+10	0	0	Mean	1   2  17  18	C8
+0	0	0	Std	15  16  31  32	C9
+0.001	0	0	Std	13  14  29  30	C10
+0.01	0	0	Std	11  12  27  28	C11
+0.0316	0	0	Std	9  10  25  26	C12
+0.1	0	0	Std	7   8  23  24	C13
+0.316	0	0	Std	5   6  21  22	C14
+1	0	0	Std	3   4  19  20	C15
+10	0	0	Std	1   2  17  18	C16
+1	0	0	Mean	35  36  67  68	C17
+1	0	0.5	Mean	37  38  69  70	C18
+1	0	1	Mean	39  40  71  72	C19
+1	0	2	Mean	41  42  73  74	C20
+1	0	3	Mean	43  44  75  76	C21
+1	0	4	Mean	45  46  77  78	C22
+1	0	8	Mean	47  48  79  80	C23
+1	0	0	Std	35  36  67  68	C24
+1	0	0.5	Std	37  38  69  70	C25
+1	0	1	Std	39  40  71  72	C26
+1	0	2	Std	41  42  73  74	C27
+1	0	3	Std	43  44  75  76	C28
+1	0	4	Std	45  46  77  78	C29
+1	0	8	Std	47  48  79  80	C30
+1	1	0	Mean	51  52  83  84	C31
+1	1	0.5	Mean	53  54  85  86	C32
+1	1	1	Mean	55  56  87  88	C33
+1	1	2	Mean	57  58  89  90	C34
+1	1	3	Mean	59  60  91  92	C35
+1	1	4	Mean	61  62  93  94	C36
+1	1	8	Mean	63  64  95  96	C37
+1	1	0	Std	51  52  83  84	C38
+1	1	0.5	Std	53  54  85  86	C39
+1	1	1	Std	55  56  87  88	C40
+1	1	2	Std	57  58  89  90	C41
+1	1	3	Std	59  60  91  92	C42
+1	1	4	Std	61  62  93  94	C43
+1	1	8	Std	63  64  95  96	C44
+10	0	0	Individual	1	C45
+10	0	0	Individual	2	C46
+1	0	0	Individual	3	C47
+1	0	0	Individual	4	C48
+0.316	0	0	Individual	5	C49
+0.316	0	0	Individual	6	C50
+0.1	0	0	Individual	7	C51
+0.1	0	0	Individual	8	C52
+0.0316	0	0	Individual	9	C53
+0.0316	0	0	Individual	10	C54
+0.01	0	0	Individual	11	C55
+0.01	0	0	Individual	12	C56
+0.001	0	0	Individual	13	C57
+0.001	0	0	Individual	14	C58
+0	0	0	Individual	15	C59
+0	0	0	Individual	16	C60
+10	0	0	Individual	17	C61
+10	0	0	Individual	18	C62
+1	0	0	Individual	19	C63
+1	0	0	Individual	20	C64
+0.316	0	0	Individual	21	C65
+0.316	0	0	Individual	22	C66
+0.1	0	0	Individual	23	C67
+0.1	0	0	Individual	24	C68
+0.0316	0	0	Individual	25	C69
+0.0316	0	0	Individual	26	C70
+0.01	0	0	Individual	27	C71
+0.01	0	0	Individual	28	C72
+0.001	0	0	Individual	29	C73
+0.001	0	0	Individual	30	C74
+0	0	0	Individual	31	C75
+0	0	0	Individual	32	C76
+0	0	0	Individual	33	C77
+0	0	0	Individual	34	C78
+1	0	0	Individual	35	C79
+1	0	0	Individual	36	C80
+1	0	0.5	Individual	37	C81
+1	0	0.5	Individual	38	C82
+1	0	1	Individual	39	C83
+1	0	1	Individual	40	C84
+1	0	2	Individual	41	C85
+1	0	2	Individual	42	C86
+1	0	3	Individual	43	C87
+1	0	3	Individual	44	C88
+1	0	4	Individual	45	C89
+1	0	4	Individual	46	C90
+1	0	8	Individual	47	C91
+1	0	8	Individual	48	C92
+0	0	0	Individual	49	C93
+0	0	0	Individual	50	C94
+1	1	0	Individual	51	C95
+1	1	0	Individual	52	C96
+1	1	0.5	Individual	53	C97
+1	1	0.5	Individual	54	C98
+1	1	1	Individual	55	C99
+1	1	1	Individual	56	C100
+1	1	2	Individual	57	C101
+1	1	2	Individual	58	C102
+1	1	3	Individual	59	C103
+1	1	3	Individual	60	C104
+1	1	4	Individual	61	C105
+1	1	4	Individual	62	C106
+1	1	8	Individual	63	C107
+1	1	8	Individual	64	C108
+0	0	0	Individual	65	C109
+0	0	0	Individual	66	C110
+1	0	0	Individual	67	C111
+1	0	0	Individual	68	C112
+1	0	0.5	Individual	69	C113
+1	0	0.5	Individual	70	C114
+1	0	1	Individual	71	C115
+1	0	1	Individual	72	C116
+1	0	2	Individual	73	C117
+1	0	2	Individual	74	C118
+1	0	3	Individual	75	C119
+1	0	3	Individual	76	C120
+1	0	4	Individual	77	C121
+1	0	4	Individual	78	C122
+1	0	8	Individual	79	C123
+1	0	8	Individual	80	C124
+0	0	0	Individual	81	C125
+0	0	0	Individual	82	C126
+1	1	0	Individual	83	C127
+1	1	0	Individual	84	C128
+1	1	0.5	Individual	85	C129
+1	1	0.5	Individual	86	C130
+1	1	1	Individual	87	C131
+1	1	1	Individual	88	C132
+1	1	2	Individual	89	C133
+1	1	2	Individual	90	C134
+1	1	3	Individual	91	C135
+1	1	3	Individual	92	C136
+1	1	4	Individual	93	C137
+1	1	4	Individual	94	C138
+1	1	8	Individual	95	C139
+1	1	8	Individual	96	C140
